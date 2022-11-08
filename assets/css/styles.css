@@ -51,6 +51,7 @@ header h1 {
     padding: 10px;
     text-justify: inter-word;
     font-size: 1em;
+    text-align: justify;
 }
 
 .img1 {
